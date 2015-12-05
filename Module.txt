@@ -1,0 +1,9 @@
+﻿Name: Gravatar
+Path: Contrib.Gravatar
+AntiForgery: enabled
+Author: Team Grapto (tweet: @teamgrapto)
+Website: http://code.google.com/p/ngravatar/
+Version: 1.0.0
+OrchardVersion: 1.8.0
+Category: Forum
+Description: Give you the ability to add Gravatars server side. Code from on http://code.google.com/p/ngravatar/
